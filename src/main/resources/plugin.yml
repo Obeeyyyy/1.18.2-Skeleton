@@ -1,0 +1,13 @@
+name: Mc-Kingdoms
+version: 2.0
+author: Obey
+
+main: de.obey.Startup
+api-version: 1.18
+
+libraries:
+  - org.projectlombok:lombok:1.18.24
+  - com.zaxxer:HikariCP:5.0.1
+  - org.json:json:20220320
+
+commands:
